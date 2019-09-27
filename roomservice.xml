@@ -5,10 +5,6 @@
   <project name="Samsung-GNP/android_kernel_samsung_grandneove3g" path="kernel/samsung/grandneove3g" remote="github" revision="lineage-15.1" />
   <project name="Samsung-GNP/android_vendor_samsung_grandneove3g" path="vendor/samsung/grandneove3g" remote="github" revision="lineage-15.1" />
 
-  <!-- Common repos -->
-  <project name="diepquynh/android_device_samsung_scx30g-common" path="device/samsung/scx30g-common" remote="github" revision="lineage-15.1" />
-  <project name="diepquynh/android_device_samsung_scx35-common" path="device/samsung/scx35-common" remote="github" revision="lineage-15.1" />
-  <project name="diepquynh/android_device_samsung_sprd-common" path="device/samsung/sprd-common" remote="github" revision="lineage-15.1" />
-  <project name="diepquynh/android_vendor_samsung_scx30g-common" path="vendor/samsung/scx30g-common" remote="github" revision="lineage-15.1" />
+  <!-- SPRD Hardware -->
   <project name="diepquynh/android_hardware_sprd" path="hardware/sprd" remote="github" revision="lineage-15.1" />
 </manifest>
